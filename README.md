@@ -2,7 +2,7 @@
 
 ## 🛠️ 技术栈
 
-- **编程语言**: Java
+- **编程语言**: Java, vue
 - **框架**: Spring Boot, Mybatis, JPA
 - **数据库**: MySQL, PostgreSQL, Redis
 - **DevOps**: Docker, Kubernetes, Jenkins
