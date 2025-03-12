@@ -10,7 +10,7 @@
 
 ## 🔧 最近项目
 
-- **[EZ-ADMIN]()**: 一款通用的后台管理系统。
+- **[EZ-ADMIN](https://github.com/Caoshenyang/EZ-ADMIN)**: 一款通用的后台管理系统。
 - **[EZ-ADMIN-VUE]()**: 后台管理系统前端部分。
 
 ## 📫 联系我
