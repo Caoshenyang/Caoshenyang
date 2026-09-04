@@ -29,10 +29,12 @@
 
 <div align="center">
 
-<a href="https://github.com/iwantools/iwantools-json-formatter"><img height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=iwantools&repo=iwantools-json-formatter&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=C9D1D9&border_color=30363D" alt="json-formatter" /></a>
-<a href="https://github.com/iwantools/iwantools-mini-games"><img height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=iwantools&repo=iwantools-mini-games&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=C9D1D9&border_color=30363D" alt="mini-games" /></a><br/>
-<a href="https://github.com/iwantools/iwantools-timestamp-converter"><img height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=iwantools&repo=iwantools-timestamp-converter&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=C9D1D9&border_color=30363D" alt="timestamp-converter" /></a>
-<a href="https://github.com/iwantools/iwantools-base64"><img height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=iwantools&repo=iwantools-base64&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=C9D1D9&border_color=30363D" alt="base64" /></a>
+| 工具 | 说明 | 技术栈 |
+| :--- | :--- | :---: |
+| 🧰 [**iwantools-json-formatter**](https://github.com/iwantools/iwantools-json-formatter)<br/>JSON 格式化与校验 | 粘贴即用，格式化 / 压缩 / 校验一步完成，全程本地处理 | ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) |
+| 🎮 [**iwantools-mini-games**](https://github.com/iwantools/iwantools-mini-games)<br/>轻量小游戏合集 | 打开就玩，同源按需加载，无需下载安装 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| ⏱ [**iwantools-timestamp-converter**](https://github.com/iwantools/iwantools-timestamp-converter)<br/>时间戳双向转换 | 时间戳 ⇄ 日期时间毫秒级互转，支持多种格式 | ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) |
+| 🔒 [**iwantools-base64**](https://github.com/iwantools/iwantools-base64)<br/>Base64 编解码 | 编码 / 解码即贴即得，数据不出浏览器 | ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) |
 
 </div>
 
@@ -77,8 +79,9 @@
 
 <div align="center">
 
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=Caoshenyang&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=C9D1D9&border_color=30363D" alt="stats" />
-<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caoshenyang&layout=compact&langs_count=8&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9&border_color=30363D" alt="langs" />
+<a href="https://github.com/Caoshenyang?tab=followers"><img src="https://img.shields.io/github/followers/Caoshenyang?style=for-the-badge&color=00C6FF&label=Followers" alt="Followers" /></a>
+
+<img width="72%" src="https://streak-stats.demolab.com/?user=Caoshenyang&background=0D1117&border=30363D&ring=00C6FF&fire=00C6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00C6FF&sideLabels=C9D1D9&dates=8B949E&excludeDaysLabel=8B949E" alt="streak" />
 
 </div>
 
